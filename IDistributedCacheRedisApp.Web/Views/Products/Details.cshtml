@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Product? product = ViewBag.product as Product;
+}
+
+<h1>Details</h1>
+<h2>@product?.Id => @product?.Name</h2>
