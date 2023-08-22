@@ -1,7 +1,5 @@
 ![redis](rediss.png)
 
-# Notes on Redis and Caching
-
 ## What is Redis?
 Redis is an open source and fast data store and a key-value based memory database. It is often used for caching purposes.
 
