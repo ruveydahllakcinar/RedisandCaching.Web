@@ -1,4 +1,4 @@
-
+![redis](rediss.png)
 
 # Notes on Redis and Caching
 
